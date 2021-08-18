@@ -3,8 +3,8 @@
 
 ## Disclaimer
 
-- **Use this on your own responsability
-- **Only for learning purposes
+-  Use this on your own responsability
+-  Only for learning purposes
 
 ## Requirements and Installation
 
